@@ -1,0 +1,4 @@
+Rule 90 cellular automata for a strip of NeoPixel-compatible LEDS.
+http://en.wikipedia.org/wiki/Rule_90
+(Similar to Conway's game of life in 1D)
+
